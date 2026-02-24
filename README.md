@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📊 Projeto SQL - Análise de Hemogramas
 
 Este projeto reúne consultas SQL aplicadas a uma base de dados de hemogramas, com o objetivo de explorar diferenças entre sexo e dispositivos de medição.  
@@ -40,3 +41,7 @@ Este projeto reúne consultas SQL aplicadas a uma base de dados de hemogramas, c
 1. Clone este repositório:
    ```bash
    git clone https://github.com/shgutierrez/projeto-hemograma-sql.git
+=======
+# projeto-hemograma-sql
+Scripts em SQlite para verificar diferenças entre dois dispositivos de análises hematológicas em um banco de dados
+>>>>>>> 92059f8104e654438e5a6954fde627bd672add1b
